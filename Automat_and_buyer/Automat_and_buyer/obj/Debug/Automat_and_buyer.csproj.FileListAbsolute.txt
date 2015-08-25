@@ -1,0 +1,6 @@
+c:\users\tim\documents\visual studio 2013\Projects\Automat_and_buyer\Automat_and_buyer\bin\Debug\Automat_and_buyer.exe.config
+c:\users\tim\documents\visual studio 2013\Projects\Automat_and_buyer\Automat_and_buyer\bin\Debug\Automat_and_buyer.exe
+c:\users\tim\documents\visual studio 2013\Projects\Automat_and_buyer\Automat_and_buyer\bin\Debug\Automat_and_buyer.pdb
+c:\users\tim\documents\visual studio 2013\Projects\Automat_and_buyer\Automat_and_buyer\obj\Debug\Automat_and_buyer.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2013\Projects\Automat_and_buyer\Automat_and_buyer\obj\Debug\Automat_and_buyer.exe
+c:\users\tim\documents\visual studio 2013\Projects\Automat_and_buyer\Automat_and_buyer\obj\Debug\Automat_and_buyer.pdb
